@@ -1,0 +1,64 @@
+body{
+background-image: url(https://i.ytimg.com/vi/z-p_9mPgIO8/maxresdefault.jpg);
+background-size: 36.2cm;
+}
+
+
+
+h1{
+    text-align: center;
+  color: white;
+   font-family: 'cookie';
+   font-size: 2cm;;
+ 
+   margin:250px;
+}
+
+
+
+#ori {
+    color:#FF8DC2;
+    font-family: Georgia;
+    position:absolute;
+    top:375px;
+    margin-left: 590px;
+    padding: 5px;
+    justify-content: space-between;
+    font-size:25px;
+    border:1px  #4424f7 solid;
+    border-width: 5px;
+    border-style: double;
+    border-radius: 20px;
+    transform:translate(-50%, -50%);
+    text-decoration: none;
+}
+a:link {
+    color: rgb(47, 0, 255);
+}
+a:visited {
+    color: rgb(76, 0, 255);
+}
+
+
+    
+#gami {
+    color:#FF8DC2;
+    font-family: Georgia;
+    position:absolute;
+    top: 375px;
+    padding: 5px;
+    border-radius: 20px;
+    margin-left: 775px;
+    justify-content: space-between;
+    font-size:25px;
+    border:1px  #4424f7 solid;
+    border-width: 5px;
+    border-style: double;
+    transform:translate(-50%, -50%);
+    text-decoration: none;
+}
+
+
+
+ 
+ 
